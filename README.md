@@ -68,11 +68,11 @@ class LastFirst(Namer):
         self.first = names[1]
 
 ```
-Used when input is Last, First
+- Used when input is Last, First
 
-Split by comma
+- Split by comma
 
-3) Factory Class (Main Factory Logic)
+###3) Factory Class (Main Factory Logic)
 
 ```python
 class NamerFactory():
