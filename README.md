@@ -40,8 +40,8 @@ class Namer():
 - All name parser follow this structure
 
 
-2) Concrete Classes (Actual Objects)
-## FirstFirst class
+### 2) Concrete Classes (Actual Objects)
+### FirstFirst class
 
 ```python
 class FirstFirst(Namer):
@@ -57,7 +57,7 @@ class FirstFirst(Namer):
 
  - Split by space
 
-## LastFirst class
+### LastFirst class
 
 ```python
 class LastFirst(Namer):
