@@ -11,7 +11,7 @@ This auto choosing part is called **Factory Design Pattern**.
 
 ---
 
-## What is Factory Pattern (laymans term)
+## What is Factory Pattern
 Factory pattern mean:
 👉 **One place decide what object to create**, not client.
 
@@ -159,3 +159,4 @@ Console code stay simple because object creation logic is hidden inside the fact
 This file show another simple example of Factory Pattern using a `Cocoon` class.  
 The factory method `getButterfly()` decide which `Butterfly` subclass to create based on the value of `y`.  
 Client code do not know which butterfly type it get, only that it receive a `Butterfly` object.
+
